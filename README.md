@@ -1,4 +1,6 @@
 # Ionic 2 Conference Application
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fawaken-direct-democracy.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fawaken-direct-democracy?ref=badge_shield)
+
 
 This is purely a demo of Ionic 2 with TypeScript. It is still in development.
 
@@ -194,3 +196,7 @@ ionic-conference-app/
 ├── tsconfig.json                       * Defines the root files and the compiler options
 ├── tslint.json                         * Defines the rules for the TypeScript linter
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fawaken-direct-democracy.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fawaken-direct-democracy?ref=badge_large)
